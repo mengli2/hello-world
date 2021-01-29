@@ -8,13 +8,11 @@ Add 2nd line
 * 1 lime
 * 1 tsp salt
 * 1 onion
-* 1 tomato
 
 ## instructions
 
 1. chop avocados
 2. chop onion
-3. add tomato
-4. add salt
-5. mix well
+3. add salt
+4. mix well
 
